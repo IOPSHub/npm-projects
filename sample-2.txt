@@ -1,1 +1,2 @@
-This is my second commit
+Tis is my secnd commit
+This my secon commit
